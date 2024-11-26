@@ -20,7 +20,7 @@ Currency Price Tracker is an Android application that provides real-time currenc
 ---
 
 ## Screenshots 📸
-![App Screenshot](images/view_main.png "App Screenshot")
+![App Screenshot](images/Screenshot.png "App Screenshot")
 
 ---
 
