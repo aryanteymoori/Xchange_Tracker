@@ -29,7 +29,7 @@ Currency Price Tracker is an Android application that provides real-time currenc
 ### Prerequisites:
 1. Android Studio installed on your system.
 2. A stable internet connection for fetching exchange rates.
-3. API Key (if required for the currency API).
+3. API Key.
 
 ### Steps:
 1. Clone the repository:
