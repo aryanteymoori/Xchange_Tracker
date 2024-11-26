@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">currencyprice</string>
+    <string name="splash_img">Splash_img</string>
+    <string name="ghimat_tala_and_arz">قیمت طلا و ارز</string>
+    <string name="ghimat_roz_tala_and_arz_jahan">تازه ترین اخبار ارز و طلای روز جهان</string>
+    <string name="Date_top_main_page">سه شنبه 30 آبان 1403</string>
+    <string name="top_image_main_page">top_image_main_page</string>
+    <string name="arz">قیمت ارز</string>
+    <string name="tala">قیمت طلا</string>
+    <string name="_18">گرم طلای 18 عیار</string>
+    <string name="image_dec">image_dec</string>
+</resources>
